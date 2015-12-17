@@ -1,0 +1,7 @@
+name 'ihenry-github-cookbook'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures ihenry-github-cookbook'
+long_description 'Installs/Configures ihenry-github-cookbook'
+version '0.1.0'
